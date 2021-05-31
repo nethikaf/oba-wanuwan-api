@@ -81,7 +81,7 @@ and open the template in the editor.
             url: "http://api.obawenuwenapi.ictforlife.org/api/person/get-geo-data",
             headers: {
                 'app-token': '$*P?vm!QT?_sX=hv+jAsFgxmc2EFB!',
-                'user-token': '65f1e5e0c97ecb377b024bf81955c06a'
+                'user-token': 'c5c0458e54305cea3e35e147ac30a6ca'
             },
             type: "GET",
             contentType: false,
